@@ -1,0 +1,8 @@
+﻿{
+    "Id": "GongJuNaijiu",
+    "DisplayName": "工具不掉耐久",
+    "Author": "LiuBaicai",
+    "Version": "0.0.1",
+    "AssemblyName": "GongJuNaijiu.dll",
+    "EntryMethod": "GongJuNaijiu.Main.Load"
+}
